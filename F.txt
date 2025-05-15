@@ -1,0 +1,4 @@
+# F200: Examining a Forensic Image
+
+Inside the files acquired from the disk image, one of the images contained the flag for this task- 'EVIDENCE'. 
+File Path inside Autopsy: File Views -> File Types -> By Extension -> Images -> flag 1.bmp
