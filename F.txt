@@ -2,4 +2,5 @@
 
 Inside the files acquired from the disk image, one of the images contained the flag for this task- 'EVIDENCE'. 
 File Path inside Autopsy: File Views -> File Types -> By Extension -> Images -> flag 1.bmp
-![CNIT-121-Computer-Forensics](1.png)
+![Image showing the flag found in image](CNIT-121-Computer-Forensics/1.png)
+
