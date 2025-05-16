@@ -21,5 +21,9 @@ The second flag is the name of the file in which a mother rhino and a baby rhino
 ![Diary-Entry-Containing-The-Location](2.3.png)
 
 ### F201.4
+1. The flag for this part was the name of a file. 2 files of an MIT email address were present, out of which the undeleted file's name was the flag.
+2. We find this file on the path: Analysis Results -> Keyword Hits -> Email Addresses -> [some gibberish name] -> philg@mit.edu -> f0103512.jpg
+![File-containing the flag](2.4.png)
+
 
 
